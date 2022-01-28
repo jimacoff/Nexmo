@@ -1,8 +1,8 @@
 <?php
 class mazterin_sms
 {
-    private $NEXMO_KEY    = ""; // NEXMO API KEY
-    private $NEXMO_SECRET = ""; // NEXMO API SECRET
+    private $NEXMO_KEY    = "21c89cb7"; // NEXMO API KEY
+    private $NEXMO_SECRET = "LwadWs0Cmd6Bm2KE"; // NEXMO API SECRET
     private $nomor;
     private $from; 
     private $message;
